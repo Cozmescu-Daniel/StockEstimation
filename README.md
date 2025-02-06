@@ -37,7 +37,7 @@ The tool will display a GUI window where you can:
 - View a graph with actual stock prices and predicted prices for the next 7 days.
 
 ## Example 🖼️
-![image](https://github.com/user-attachments/assets/5314ca85-3e15-4a0c-b9ea-6f22cf7025a2)
+![image](https://github.com/user-attachments/assets/30160b56-afdf-47cd-a386-f79d169b8150)
 The graph will show:
 
 - The actual historical stock prices.
